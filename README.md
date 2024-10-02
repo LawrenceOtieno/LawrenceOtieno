@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LawrenceOtieno
-- 👨‍💻⚙️🐍 I’m a Specialist in System Administration, IT Operations, Python and IT Infrastructure.
-- 🌱 I’m currently learning web development and design using python and flask. 
-- 💞️ I’m looking to collaborate on Infrastructure Optimization, Automation with Python, SAP Integration & Optimization, Cloud & Virtualization Solutions. 
-- 📫 Reach me at lawrenceit38@gmail.com, and also on LinkedIn at https://www.linkedin.com/in/lawrence-otieno-5b6b6212a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcYYMd7H6SkinVEBieM8U6A%3D%3D
+- ⚙️📊 A Professional in IT Operations, Systems Administration, and an ICT Business Analyst.
+- 🌱 Currently, I am enhancing my python skills, with hands-on experience in data analysis, web dev, and automation. 
+- 🤝 I am actively applying my skills to solve real-world challenges and streamline processes, let's collaborate. 
+- 📶 Let's connect on LinkedIn @ https://www.linkedin.com/in/lawrence-otieno-5b6b6212a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPlsCrJLTPm4vkGQO8tRgQ%3D%3D
   
 - ⚡ Fun fact: "I'm a tech enthusiast who enjoys writing in my free time, blending creativity with technical expertise!"
 
