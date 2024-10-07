@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Lawrence Otieno
+- 👋 Hello, I'm @LawrenceOtieno
 - ⚙️📊 A Professional in IT Operations, Systems Administration, and an ICT Business Analyst.
 - 🌱 Currently, I am enhancing my python skills, with hands-on experience in data analysis, web dev, and automation. 
 - 🤝 I am actively applying my skills to solve real-world challenges and streamline processes, let's collaborate. 
