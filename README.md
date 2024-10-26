@@ -4,7 +4,7 @@
 - 🤝 I am actively applying my skills to solve real-world challenges and streamline processes. Let's collaborate.
 - 📶 Reach me at https://www.linkedin.com/in/lawrence-otieno-5b6b6212a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPlsCrJLTPm4vkGQO8tRgQ%3D%3D
   
-- ⚡ Fun fact: "My favorite music is country and evening walks combination, this helps me unwind hence reporting for work the next day fresh!"
+- ⚡ Fun fact: "My favorite music is country and evening walks combination, this helps me unwind."
 
 <!---
 LawrenceOtieno/LawrenceOtieno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
