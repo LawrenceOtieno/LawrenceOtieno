@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @LawrenceOtieno
+- 👋 Hello, I'm @LawrenceOtien
 - ⚙️📊 I am a professional in Data and Business analysis, IT Operations, and ICT Support.
 - 🌱 Currently, I am enhancing my python skills, with hands-on experience in data analysis, web dev, and automation. I am also taking a part-time course on Coursera, "Google Data Analytics" to be specific. This will help me understand the Data Analysis process, and Data life cycle more. 
 - 🤝 I am actively applying my skills to solve real-world challenges and streamline processes. Let's collaborate.
