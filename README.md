@@ -7,3 +7,5 @@ Proficient in Power BI • Jira • SQL • Python • Excel.
 Passionate about collaborations. 
 
 🚀 Live App: [Student Management System](https://student-managing-system.streamlit.app/)
+
+⚠️ **Note:** If the app shows a "Zzz" screen, just click **"Yes, get this app back up!"** to wake it up.
