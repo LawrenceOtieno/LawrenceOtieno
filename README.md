@@ -2,7 +2,7 @@ Hello, I'm Lawrence Otieno!
 
 Business Analyst | Systems Analyst | Project Management | Business Development.
 
-Proficient in Power BI • Jira • SQL • Python • Excel.
+Proficient in Power BI • Jira • SQL • Python • Excel. AWS
 
 Passionate about collaborations. 
 
