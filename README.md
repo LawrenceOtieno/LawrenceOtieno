@@ -6,7 +6,7 @@ Proficient in Power BI • Jira • SQL • Python • Excel. AWS
 
 Passionate about collaborations. 
 
-Think/design/Create...
+Building something special block by block...
 
 🚀 Live App: [Student Management System](https://student-managing-system.streamlit.app/)
 
