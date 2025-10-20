@@ -1,6 +1,6 @@
 Hello, I'm Lawrence Otieno!
 
-Business Analyst | Systems Analyst | End-User Support Specialist | Project Management | Business Development.
+Business Analyst | Systems Analyst | End-User Support Specialist | Business Development | 
 
 Proficient in Power BI • Jira • SQL • Python • Excel. AWS
 
