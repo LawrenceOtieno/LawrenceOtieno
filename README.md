@@ -1,7 +1,9 @@
-Hello, I'm Lawrence Otieno!
+👋 Hi, I’m Lawrence Otieno
 
-Business Analyst | Systems Analyst | End-User Support Specialist | Business Development | Driving Business Growth Through Business Development, Business Analysis, & Project Management.
+Business Applications Analyst specializing in Automation & Integration, Data Reporting, and Systems Support.
+I enjoy building efficient, data-driven solutions that turn complex processes into simple, scalable workflows.
 
-Proficient in Power BI • Jira • SQL • Python • Excel. AWS
+Tech stack:
+Power BI • SQL • Python • Excel • Power Automate
 
-
+🤝 I am Open to collaboration on automation, dashboards, data reporting, and system support /integration projects.
