@@ -1,7 +1,7 @@
 👋 Hi, I’m Lawrence Otieno
 
 Business Applications Analyst specializing in Automation & Integration, Data Reporting, and Systems Support.
-I enjoy building efficient, data-driven solutions that turn complex processes into simple, scalable workflows.
+I enjoy building efficient, data-driven solutions that turn complex processes into simple, scalable workflows
 
 Tech stack:
 Power BI • SQL • Python • Excel • Power Automate • Git
