@@ -6,4 +6,4 @@ I enjoy building efficient, data-driven solutions that turn complex processes in
 Tech stack:
 Power BI • SQL • Python • Excel • Power Automate • Git
 
-🤝 I am Open to collaboration on automation, dashboards, data reporting, and system support /integration projects...
+🤝 I am Open to collaboration on automation, dashboards, data reporting, and system support /integration projects..
