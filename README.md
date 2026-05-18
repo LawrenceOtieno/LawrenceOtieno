@@ -1,6 +1,6 @@
 👋 Hi, I’m Lawrence Otieno
 
-A Business Applications Analyst, and a Data Engineer (building data integration, and ETL/ELT pipelines) specializing in Automation & Integration, Data Reporting, and Systems & Data Elements Support.
+A Business Applications Analyst, and a Data Engineer (building data integration, and ETL/ELT pipelines). I specialize in Automation & Integration, Data Reporting, and Systems & Data Elements Support.
 I enjoy building efficient, data-driven solutions that turn complex processes into simple, scalable workflows.
 
 Tools & Utilities:
