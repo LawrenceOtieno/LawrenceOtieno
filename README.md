@@ -1,9 +1,35 @@
-👋 Hi, I’m Lawrence Otieno
+# 👋 Hi, I’m Lawrence Otieno
 
-A Business Applications Analyst, and a Data Engineer (building data integration, and ETL/ELT pipelines). I specialize in Automation & Integration, Data Reporting, and Systems & Data Elements Support.
-I enjoy building efficient, data-driven solutions that turn complex processes into simple, scalable workflows.
+### 🚀 Business Applications Analyst & Data Engineer
 
-Tools & Utilities:
-Power BI • SQL • Python • Excel • Power Automate • Git • Bash Scripting (Linux(Ubuntu)) • PowerShell & CMD (Windows)..
+I specialize in building efficient, data-driven solutions that turn complex processes into simple, scalable workflows. My expertise spans automation, system integration, and designing robust ETL/ELT data pipelines.
 
-🤝 I am Open to collaboration on automation, dashboards, data reporting, and system support /integration projects.
+---
+
+### 🛠️ Core Expertise
+* **Data Engineering:** Building reliable data integration and ETL/ELT pipelines.
+* **Automation & Integration:** Streamlining workflows to eliminate manual overhead.
+* **Data Reporting:** Developing intuitive dashboards and business intelligence solutions.
+* **Systems Support:** Managing data elements and providing technical system support.
+
+---
+
+### 🧰 Tools & Utilities
+
+
+| Category | Technologies |
+| :--- | :--- |
+| **Data & Analytics** | Power BI • SQL • Python • Excel |
+| **Automation & Workflow** | Power Automate |
+| **DevOps & Scripting** | Git • Bash Scripting (Linux/Ubuntu) • PowerShell • CMD (Windows) |
+
+---
+
+### 🤝 Let's Collaborate!
+I am actively looking to collaborate on:
+* ⚙️ Automation & integration workflows
+* 📊 Interactive dashboards & data reporting systems
+* 🛠️ System support and infrastructure projects
+
+*Feel free to explore my repositories or reach out if you want to build something impactful together!*
+
