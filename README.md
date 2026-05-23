@@ -6,30 +6,53 @@ I specialize in building efficient, data-driven solutions that turn complex proc
 
 ---
 
-### 🛠️ Core Expertise
-* **Data Engineering:** Building reliable data integration and ETL/ELT pipelines.
-* **Automation & Integration:** Streamlining workflows to eliminate manual overhead.
-* **Data Reporting:** Developing intuitive dashboards and business intelligence solutions.
-* **Systems Support:** Managing data elements and providing technical system support.
+### 🧰 Tech Stack & Tools
+
+#### 📊 Data & Analytics
+![Power BI](https://shields.io)
+![SQL](https://shields.io)
+![Python](https://shields.io)
+![Excel](https://shields.io)
+
+#### ⚙️ Automation & Workflow
+![Power Automate](https://shields.io)
+
+#### 🛠️ DevOps & Scripting
+![Git](https://shields.io)
+![Bash](https://shields.io)
+![Linux](https://shields.io)
+![PowerShell](https://shields.io)
 
 ---
 
-### 🧰 Tools & Utilities
+### 🛠️ Core Expertise
 
+<details>
+<summary><b>📐 Data Engineering</b></summary>
+Building reliable data integration frameworks and scalable ETL/ELT pipelines.
+</details>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Data & Analytics** | Power BI • SQL • Python • Excel |
-| **Automation & Workflow** | Power Automate |
-| **DevOps & Scripting** | Git • Bash Scripting (Linux/Ubuntu) • PowerShell • CMD (Windows) |
+<details>
+<summary><b>🤖 Automation & Integration</b></summary>
+Streamlining business operations and workflows to eliminate manual overhead.
+</details>
+
+<details>
+<summary><b>📈 Data Reporting & BI</b></summary>
+Developing intuitive dashboards, key performance metrics, and business intelligence assets.
+</details>
+
+<details>
+<summary><b>🖥️ Systems Support</b></summary>
+Managing core data elements and providing technical systems architectural support.
+</details>
 
 ---
 
 ### 🤝 Let's Collaborate!
-I am actively looking to collaborate on:
+I am actively looking to collaborate on projects involving:
 * ⚙️ Automation & integration workflows
 * 📊 Interactive dashboards & data reporting systems
 * 🛠️ System support and infrastructure projects
 
 *Feel free to explore my repositories or reach out if you want to build something impactful together!*
-
