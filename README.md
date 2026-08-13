@@ -1,76 +1,62 @@
-<div align="center">
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Lawrence. I am a Business Analyst!" src="./assets/gh-readme-header.png" /></a></p>
 
-# 🕹️ INSERT COIN TO LOAD PROFILE 🕹️
+<br />
 
-<img src="https://vercel.app" />
+I'm a Data Engineering Enthusiast.
+
+**About me**
+
+- 💼 Business Analyst at [Aesops Unveiling Insights](https://aesops.co.ke/)
+
+- 📈 Github-readme-stats: Continuously building with **Flask**, **React.js**, and **Streamlit** frameworks on **GitHub**, **Vercel**, and **LinkedIn** • **20K+** LinkedIn Followers • **10+** GitHub Repositories
+
+
+- ❤️ I love writing python scripts, and building fun experiments on Python
+
+- 💬 Ask me about anything [here](https://github.com/LawrenceOtieno)
+
+<code><img src="https://shields.io" height="25" alt="Python" /></code>
+<code><img src="https://shields.io" height="25" alt="Pydantic" /></code>
+
+
+
+| <a href="https://github.com/LawrenceOtieno"><img align="center" src="https://vercel.app" alt="Lawrence's GitHub stats" /></a> | <a href="https://github.com/LawrenceOtieno"><img align="center" src="https://vercel.app" alt="Lawrence's top programming languages" /></a> |
+
+| ------------- | ------------- |
+
+#### Top Repositories
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="HRM Executive Dashboard" />
+  </a>
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="KRA Nil Automator" />
+  </a>
 </p>
-
-</div>
-
----
-
-### 👾 PLAYER BIO
-
-```text
-[LEVEL 05]: Business Analyst & Data Engineering Enthusiast
-[SPECIALTY]: Bridging raw backend pipelines with clear visual dashboards.
-[LOCATION]: Kirangari, KE 
-```
-
----
-
-### ⚡ ARCADE INVENTORY (TECH STACK)
 
 <p align="center">
-  <!-- Languages & Core -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <br/>
-  
-  <!-- BI & Frameworks -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Movie Ratings Dashboard" />
+  </a>
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Gazebo Indoor Gen" />
+  </a>
 </p>
 
----
-
-### 🗺️ QUEST LOG (FEATURED PROJECTS)
-
-| Quest (Project) | Description | Power-Ups (Tech Used) | Arcade Link |
-| :--- | :--- | :--- | :--- |
-| **Pipeline Arcade** | Automated ETL pipeline ingesting operational data | Python, SQL, Flask | [View Repo](https://github.com) |
-| **Metric Deck** | Interactive executive business intelligence tool | Power BI, Excel, SQL | [View Dashboard](https://github.com) |
-| **Streamlit HUD** | Real-time interactive data analytics control room | Streamlit, Python | [Launch App](https://github.com) |
-| **React Dashboard** | Modern client-side data presentation view | React, JavaScript | [Live Demo](https://github.com) |
-
----
-
-### 📊 HIGH SCORES (GITHUB STATS)
-
-<div align="center">
-
-<p>
-  <img src="https://vercel.app" />
-</p>
-<p>
-  <img src="https://herokuapp.com" />
+<p align="center">
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Portfolio Website" />
+  </a>
 </p>
 
-</div>
+<br />
 
----
-
-<div align="center">
-  <img src="https://vercel.app" />
-  <p><em>© 2026 • Insert More Data to Continue</em></p>
-</div>
-
+<p align="right">
+  <a href="https://www.linkedin.com/in/lawrence-otieno-5b6b6212a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB3joHgN5Q9%2BwJALLp9kLFQ%3D%3D" target="_blank">
+    <img src="https://shields.io" height="22" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" height="22" alt="GitHub Repositories Portfolio" />
+  </a>
+</p>
