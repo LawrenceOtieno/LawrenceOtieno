@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=220&section=header&text=Hello!%20I'm%20Lawrence&fontSize=48&fontColor=14B8A6&animation=fadeIn&desc=Business%20Analyst%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=55&descColor=FFFFFF" width="100%"/>
-
-<a href="https://github.com/LawrenceOtieno">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=520&lines=Business+Analyst+%F0%9F%9A%80;Data+Engineering+Enthusiast;Turning+Raw+Data+Into+Real+Decisions" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=260&section=header&text=Hello!%20I'm%20Lawrence&fontSize=46&fontColor=0A1F44&fontAlignY=30&animation=fadeIn&desc=Business%20Analyst%20%7C%20Data%20Product%20Developer%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=56&descSize=18&descColor=FFFFFF" width="100%"/>
 
 </div>
 
@@ -12,7 +8,7 @@
 
 ### 👋 About me
 
-* 💼 **Business Analyst** at [Aesops Unveiling Insights](https://your-link-here)
+* 💼 **Business Analyst** at [Aesops Unveiling Insights](https://aesops.co.ke/)
 * ☑️ Building with **Python, Flask, React & Streamlit** — deployed on GitHub, Vercel & Streamlit Cloud • **20K+ LinkedIn Followers** • **10+ Repositories**
 * ❤️ I love writing Python scripts and building fun experiments with data
 * 💬 Ask me about anything [here](https://your-link-here)
@@ -113,12 +109,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LawrenceOtieno&show_icons=true&theme=transparent&hide_border=true&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&bg_color=0A1F44" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&theme=transparent&hide_border=true&title_color=14B8A6&text_color=FFFFFF&bg_color=0A1F44" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&bg_color=0A1F44" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14B8A6&text_color=FFFFFF&bg_color=0A1F44" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&theme=transparent&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
+  <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
 </p>
 
 ---
