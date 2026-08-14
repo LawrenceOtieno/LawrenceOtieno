@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=260&section=header&text=Hello!%20I'm%20Lawrence&fontSize=46&fontColor=0A1F44&fontAlignY=30&animation=fadeIn&desc=Business%20Analyst%20%7C%20Data%20Product%20Developer%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=56&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D9488&height=110&text=Hello!%20I'm%20Lawrence&fontSize=42&fontColor=0A1F44&fontAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=FFFFFF&background=0D9488&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Data+Product+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
 
 </div>
 
@@ -11,7 +13,7 @@
 * 💼 **Business Analyst** at [Aesops Unveiling Insights](https://aesops.co.ke/)
 * ☑️ Building with **Python, Flask, React & Streamlit** — deployed on GitHub, Vercel & Streamlit Cloud • **20K+ LinkedIn Followers** • **10+ Repositories**
 * ❤️ I love writing Python scripts and building fun experiments with data
-* 💬 Ask me about anything [here](https://your-link-here)
+* 💬 Ask me about anything [here](https://github.com/LawrenceOtieno)
 
 ---
 
