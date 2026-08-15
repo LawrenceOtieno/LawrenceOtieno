@@ -13,7 +13,7 @@
 * 💼 **Business Analyst** at [Aesops Unveiling Insights](https://aesops.co.ke/)
 * ☑️ Building with **Python, Flask, React & Streamlit** — deployed on GitHub, Vercel & Streamlit Cloud • **20K+ LinkedIn Followers** • **10+ Repositories**
 * ❤️ I love writing Python scripts and building fun experiments with data
-* 💬 Ask me about anything [here](https://github.com/LawrenceOtieno)
+* 💬 Ask me about anything [here](https://your-link-here)
 
 ---
 
@@ -111,8 +111,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&bg_color=0A1F44" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14B8A6&text_color=FFFFFF&bg_color=0A1F44" height="180" />
+  <img src="https://github-stats-extended-frontend-umber.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14B8A6&text_color=FFFFFF&icon_color=14B8A6&bg_color=0A1F44" height="180" />
+  <img src="https://github-stats-extended-frontend-umber.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14B8A6&text_color=FFFFFF&bg_color=0A1F44" height="180" />
 </p>
 
 <p align="center">
@@ -138,6 +138,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://www.linkedin.com/in/lawrence-otieno-5b6b6212a/)
 [![Twitter](https://img.shields.io/badge/Twitter-0A1F44?style=for-the-badge&logo=x&logoColor=14B8A6)](https://x.com/Otieno360)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=100&section=footer" width="100%"/>
 
 </div>
