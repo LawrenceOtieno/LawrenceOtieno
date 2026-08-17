@@ -110,10 +110,6 @@
 
 ### 📊 GitHub Statistics
 
-<table>
-<tr>
-<td valign="top">
-
 <p align="center">
   <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0a1f44" height="180" />
   <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14b8a6&text_color=ffffff&bg_color=0a1f44" height="180" />
@@ -122,21 +118,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
 </p>
-
-</td>
-<td valign="top" width="220">
-
-**Quick legend**
-
-| Term | Meaning |
-|---|---|
-| **PRs** | Pull Requests you've opened |
-| **Contributed to** | Other people's repos you've committed/opened PRs or issues on |
-| **Issues** | Bug reports/feature requests you've opened |
-
-</td>
-</tr>
-</table>
 
 ---
 
