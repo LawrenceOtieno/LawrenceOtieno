@@ -110,9 +110,12 @@
 
 ### 📊 GitHub Statistics
 
-<table>
-<tr>
-<td valign="top">
+<table align="right">
+<tr><th colspan="2"><sub><b>Quick legend</b></sub></th></tr>
+<tr><td><sub><b>PRs</b></sub></td><td><sub>Pull Requests you've opened</sub></td></tr>
+<tr><td><sub><b>Contributed to</b></sub></td><td><sub>Other repos you've committed/opened PRs or issues on</sub></td></tr>
+<tr><td><sub><b>Issues</b></sub></td><td><sub>Bug reports/feature requests you've opened</sub></td></tr>
+</table>
 
 <p align="center">
   <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0a1f44" height="180" />
@@ -122,21 +125,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
 </p>
-
-</td>
-<td valign="top" width="220">
-
-**Quick legend**
-
-| Term | Meaning |
-|---|---|
-| **PRs** | Pull Requests you've opened |
-| **Contributed to** | Other people's repos you've committed/opened PRs or issues on |
-| **Issues** | Bug reports/feature requests you've opened |
-
-</td>
-</tr>
-</table>
 
 ---
 
