@@ -145,6 +145,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://www.linkedin.com/in/lawrence-otieno-5b6b6212a/)
 [![Twitter](https://img.shields.io/badge/Twitter-0A1F44?style=for-the-badge&logo=x&logoColor=14B8A6)](https://x.com/Otieno360)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=100&section=footer" width="100%"/>
 
 </div>
