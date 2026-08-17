@@ -111,8 +111,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0a1f44&cache_seconds=43200" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14b8a6&text_color=ffffff&bg_color=0a1f44&cache_seconds=43200" height="180" />
+  <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0a1f44" height="180" />
+  <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14b8a6&text_color=ffffff&bg_color=0a1f44" height="180" />
 </p>
 
 <p align="center">
