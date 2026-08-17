@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D9488&height=110&text=Hello!%20I'm%20Lawrence&fontSize=42&fontColor=0A1F44&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Lawrence&fontSize=44&fontColor=0D9488&fontAlignY=55&height=90&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=FFFFFF&background=0D9488&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Data+Product+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=2000&color=FF7A00&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Data+Product+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
 
 </div>
 
@@ -110,6 +110,10 @@
 
 ### 📊 GitHub Statistics
 
+<table>
+<tr>
+<td valign="top">
+
 <p align="center">
   <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api?username=LawrenceOtieno&show_icons=true&hide_border=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0a1f44" height="180" />
   <img src="https://github-stats-extended-frontend-z2a4.vercel.app/api/top-langs/?username=LawrenceOtieno&layout=compact&hide_border=true&title_color=14b8a6&text_color=ffffff&bg_color=0a1f44" height="180" />
@@ -118,6 +122,21 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
 </p>
+
+</td>
+<td valign="top" width="220">
+
+**Quick legend**
+
+| Term | Meaning |
+|---|---|
+| **PRs** | Pull Requests you've opened |
+| **Contributed to** | Other people's repos you've committed/opened PRs or issues on |
+| **Issues** | Bug reports/feature requests you've opened |
+
+</td>
+</tr>
+</table>
 
 ---
 
