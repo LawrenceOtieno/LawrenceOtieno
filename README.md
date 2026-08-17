@@ -13,7 +13,7 @@
 * 💼 **Business Analyst** at [Aesops Unveiling Insights](https://aesops.co.ke/)
 * ☑️ Building with **Python, Flask, React & Streamlit** — deployed on GitHub, Vercel & Streamlit Cloud • **20K+ LinkedIn Followers** • **10+ Repositories**
 * ❤️ I love writing Python scripts and building fun experiments with data
-* 💬 Ask me about anything [here](https://www.linkedin.com/in/lawrence-otieno-5b6b6212a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlkLyhUjBT7GXIyXRAMoUJQ%3D%3D)
+* 💬 Ask me about anything [here](https://portfolio-website-zeta-lyart-65.vercel.app/)
 
 ---
 
