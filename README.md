@@ -123,7 +123,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LawrenceOtieno&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0A1F44&stroke=0A1F44&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="180" />
+  <img src="./profile/streak.svg" height="180" />
 </p>
 
 ---
