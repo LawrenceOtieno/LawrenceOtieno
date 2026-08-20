@@ -8,11 +8,11 @@
 
 ---
 
-### 👋 About me
+### About me
 
 * 💼 **Business Analyst** at [Aesops Unveiling Insights](https://aesops.co.ke/)
 * ☑️ Building with **Python, Flask, React & Streamlit** — deployed on GitHub, Vercel & Streamlit Cloud • **20K+ LinkedIn Followers** • **10+ Repositories**
-* ❤️ I love writing Python scripts and building fun experiments with data
+* I love writing Python scripts and building fun experiments with data
 * 💬 Ask me about anything [here](https://portfolio-website-zeta-lyart-65.vercel.app/)
 
 ---
