@@ -66,7 +66,7 @@
 
 [<img src="https://cdn.simpleicons.org/react/14B8A6" width="20" height="20"/> **React**](https://react.dev/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/html5/14B8A6" width="20" height="20"/> **HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/css3/14B8A6" width="20" height="20"/> **CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/css/14B8A6" width="20" height="20"/> **CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="20" height="20"/> **JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="20" height="20"/> **Tailwind CSS**](https://tailwindcss.com/)
 
@@ -96,8 +96,8 @@
 <summary><b>📈 Business Intelligence & Analytics</b></summary>
 <br>
 
-[<img src="https://cdn.simpleicons.org/microsoftexcel/14B8A6" width="20" height="20"/> **Excel**](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/powerbi/14B8A6" width="20" height="20"/> **Power BI**](https://powerbi.microsoft.com/) &nbsp;&nbsp;
+[**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
+[**Power BI**](https://powerbi.microsoft.com/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/looker/14B8A6" width="20" height="20"/> **Looker**](https://cloud.google.com/looker)
 
 * **Excel** — ad-hoc data crunching & pivot tables
