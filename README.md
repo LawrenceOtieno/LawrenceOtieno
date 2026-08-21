@@ -23,9 +23,9 @@
 <summary><b>⚙️ Core Language & Automation</b></summary>
 <br>
 
-[![Python](https://img.shields.io/badge/Python-0A1F44?style=for-the-badge&logo=python&logoColor=14B8A6)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash%2FShell-0A1F44?style=for-the-badge&logo=gnu-bash&logoColor=14B8A6)](https://www.gnu.org/software/bash/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-0A1F44?style=for-the-badge&logo=pydantic&logoColor=14B8A6)](https://docs.pydantic.dev/)
+[<img src="https://cdn.simpleicons.org/python/14B8A6" width="20" height="20"/> **Python**](https://www.python.org/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="20" height="20"/> **Bash/Shell**](https://www.gnu.org/software/bash/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="20" height="20"/> **Pydantic**](https://docs.pydantic.dev/)
 
 * **Python** — primary language for scripting, backend dev & analytical tooling
 * **Bash/Shell** — automates local workflows & deployment routines
@@ -37,10 +37,10 @@
 <summary><b>📊 Data Engineering & Processing</b></summary>
 <br>
 
-[![Pandas](https://img.shields.io/badge/Pandas-0A1F44?style=for-the-badge&logo=pandas&logoColor=14B8A6)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-0A1F44?style=for-the-badge&logo=numpy&logoColor=14B8A6)](https://numpy.org/)
-[![SQLite](https://img.shields.io/badge/SQL%20(SQLite)-0A1F44?style=for-the-badge&logo=sqlite&logoColor=14B8A6)](https://www.sqlite.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-0A1F44?style=for-the-badge&logo=streamlit&logoColor=14B8A6)](https://streamlit.io/)
+[<img src="https://cdn.simpleicons.org/pandas/14B8A6" width="20" height="20"/> **Pandas**](https://pandas.pydata.org/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/numpy/14B8A6" width="20" height="20"/> **NumPy**](https://numpy.org/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="20" height="20"/> **SQLite**](https://www.sqlite.org/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="20" height="20"/> **Streamlit**](https://streamlit.io/)
 
 * **Pandas/NumPy** — clean & transform raw data into actionable datasets
 * **SQL (SQLite)** — data models & pipelines behind my apps
@@ -52,8 +52,8 @@
 <summary><b>🔧 Backend Development</b></summary>
 <br>
 
-[![Flask](https://img.shields.io/badge/Flask-0A1F44?style=for-the-badge&logo=flask&logoColor=14B8A6)](https://flask.palletsprojects.com/)
-[![REST API](https://img.shields.io/badge/RESTful%20APIs-0A1F44?style=for-the-badge&logo=fastapi&logoColor=14B8A6)](https://restfulapi.net/)
+[<img src="https://cdn.simpleicons.org/flask/14B8A6" width="20" height="20"/> **Flask**](https://flask.palletsprojects.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="20" height="20"/> **RESTful APIs**](https://restfulapi.net/)
 
 * **Flask** — custom APIs, microservices & server logic
 * **RESTful APIs** — connects my Python backends to modern UIs
@@ -64,11 +64,11 @@
 <summary><b>🎨 Frontend & Web Presentation</b></summary>
 <br>
 
-[![React](https://img.shields.io/badge/React-0A1F44?style=for-the-badge&logo=react&logoColor=14B8A6)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-0A1F44?style=for-the-badge&logo=html5&logoColor=14B8A6)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-0A1F44?style=for-the-badge&logo=css3&logoColor=14B8A6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0A1F44?style=for-the-badge&logo=javascript&logoColor=14B8A6)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0A1F44?style=for-the-badge&logo=tailwindcss&logoColor=14B8A6)](https://tailwindcss.com/)
+[<img src="https://cdn.simpleicons.org/react/14B8A6" width="20" height="20"/> **React**](https://react.dev/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/html5/14B8A6" width="20" height="20"/> **HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/css3/14B8A6" width="20" height="20"/> **CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="20" height="20"/> **JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="20" height="20"/> **Tailwind CSS**](https://tailwindcss.com/)
 
 * **React** — dynamic UIs, portfolio sites & rich dashboards
 * **HTML5/CSS3/JS** — foundational building blocks for the web
@@ -80,11 +80,11 @@
 <summary><b>🚀 Version Control & Deployment</b></summary>
 <br>
 
-[![Git](https://img.shields.io/badge/Git-0A1F44?style=for-the-badge&logo=git&logoColor=14B8A6)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-0A1F44?style=for-the-badge&logo=github&logoColor=14B8A6)](https://github.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-0A1F44?style=for-the-badge&logo=vercel&logoColor=14B8A6)](https://vercel.com/)
-[![Render](https://img.shields.io/badge/Render-0A1F44?style=for-the-badge&logo=render&logoColor=14B8A6)](https://render.com/)
-[![Railway](https://img.shields.io/badge/Railway-0A1F44?style=for-the-badge&logo=railway&logoColor=14B8A6)](https://railway.app/)
+[<img src="https://cdn.simpleicons.org/git/14B8A6" width="20" height="20"/> **Git**](https://git-scm.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/github/14B8A6" width="20" height="20"/> **GitHub**](https://github.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/vercel/14B8A6" width="20" height="20"/> **Vercel**](https://vercel.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/render/14B8A6" width="20" height="20"/> **Render**](https://render.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/railway/14B8A6" width="20" height="20"/> **Railway**](https://railway.app/)
 
 * **Git/GitHub** — version control & repo hosting
 * **Vercel/Streamlit Cloud** — deploys frontends & data apps instantly
@@ -96,9 +96,9 @@
 <summary><b>📈 Business Intelligence & Analytics</b></summary>
 <br>
 
-[![Excel](https://img.shields.io/badge/Excel-0A1F44?style=for-the-badge&logo=microsoftexcel&logoColor=14B8A6)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Power BI](https://img.shields.io/badge/Power%20BI-0A1F44?style=for-the-badge&logo=powerbi&logoColor=14B8A6)](https://powerbi.microsoft.com/)
-[![Looker](https://img.shields.io/badge/Looker-0A1F44?style=for-the-badge&logo=looker&logoColor=14B8A6)](https://cloud.google.com/looker)
+[<img src="https://cdn.simpleicons.org/microsoftexcel/14B8A6" width="20" height="20"/> **Excel**](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/powerbi/14B8A6" width="20" height="20"/> **Power BI**](https://powerbi.microsoft.com/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/looker/14B8A6" width="20" height="20"/> **Looker**](https://cloud.google.com/looker)
 
 * **Excel** — ad-hoc data crunching & pivot tables
 * **Power BI** — enterprise dashboards & stakeholder reporting
