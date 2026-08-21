@@ -16,43 +16,91 @@
 * 💬 Ask me about anything [here](https://portfolio-website-zeta-lyart-65.vercel.app/)
 
 ---
+
 ### 🛠️ Tech Stack
 
-<sub>**Core & Automation**</sub> &nbsp;
+![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<sub>**Data**</sub> &nbsp;
+
+![Data](https://img.shields.io/badge/DATA-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/pandas/14B8A6" width="16" height="16"/> Pandas](https://pandas.pydata.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/numpy/14B8A6" width="16" height="16"/> NumPy](https://numpy.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="16" height="16"/> SQLite](https://www.sqlite.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="16" height="16"/> Streamlit](https://streamlit.io/)
 
-<sub>**Backend**</sub> &nbsp;
+![Backend](https://img.shields.io/badge/BACKEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/flask/14B8A6" width="16" height="16"/> Flask](https://flask.palletsprojects.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> REST APIs](https://restfulapi.net/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<sub>**Frontend**</sub> &nbsp;
+
+![Frontend](https://img.shields.io/badge/FRONTEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/react/14B8A6" width="16" height="16"/> React](https://react.dev/) &nbsp;
 [<img src="https://cdn.simpleicons.org/html5/14B8A6" width="16" height="16"/> HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
 [<img src="https://cdn.simpleicons.org/css/14B8A6" width="16" height="16"/> CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
 [<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="16" height="16"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 [<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="16" height="16"/> Tailwind](https://tailwindcss.com/)
 
-<sub>**Deployment**</sub> &nbsp;
+![Deployment](https://img.shields.io/badge/DEPLOYMENT-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/git/14B8A6" width="16" height="16"/> Git](https://git-scm.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/github/14B8A6" width="16" height="16"/> GitHub](https://github.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/vercel/14B8A6" width="16" height="16"/> Vercel](https://vercel.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/render/14B8A6" width="16" height="16"/> Render](https://render.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/railway/14B8A6" width="16" height="16"/> Railway](https://railway.app/)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<sub>**BI & Analytics**</sub> &nbsp;
+
+![BI & Analytics](https://img.shields.io/badge/BI%20%26%20ANALYTICS-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;
 [Power BI](https://powerbi.microsoft.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/looker/14B8A6" width="16" height="16"/> Looker](https://cloud.google.com/looker)
 
----
+<br>
+
+<details>
+<summary>📖 <b>What each tool is for</b> <sub>(click to expand)</sub></summary>
+<br>
+
+**Core & Automation**
+<sub>
+• **Python** — primary language for scripting, backend dev & analytical tooling
+• **Bash/Shell** — automates local workflows & deployment routines
+• **Pydantic** — type-safe data validation for clean data ingestion
+</sub>
+
+**Data**
+<sub>
+• **Pandas/NumPy** — cleaning & transforming raw data into actionable datasets
+• **SQLite** — data models & pipelines behind my apps
+• **Streamlit** — rapid prototyping, data scripts → interactive apps
+</sub>
+
+**Backend**
+<sub>
+• **Flask** — custom APIs, microservices & server logic
+• **REST APIs** — connects my Python backends to modern UIs
+</sub>
+
+**Frontend**
+<sub>
+• **React** — dynamic UIs, portfolio sites & rich dashboards
+• **HTML5/CSS3/JS** — foundational building blocks for the web
+• **Tailwind** — fast, utility-first responsive styling
+</sub>
+
+**Deployment**
+<sub>
+• **Git/GitHub** — version control & repo hosting
+• **Vercel** — deploys frontends & data apps instantly
+• **Render/Railway** — hosts Flask backends & lightweight services
+</sub>
+
+**BI & Analytics**
+<sub>
+• **Excel** — ad-hoc data crunching & pivot tables
+• **Power BI** — enterprise dashboards & stakeholder reporting
+• **Looker** — LookML modeling & self-service analytics at scale
+</sub>
+
+</details>
 
 ### 📊 GitHub Statistics
 
