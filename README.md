@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<details open>
+<details>
 <summary><b>⚙️ Core Language & Automation</b></summary>
 <br>
 
@@ -33,7 +33,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>📊 Data Engineering & Processing</b></summary>
 <br>
 
@@ -48,7 +48,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔧 Backend Development</b></summary>
 <br>
 
@@ -60,7 +60,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🎨 Frontend & Web Presentation</b></summary>
 <br>
 
@@ -76,7 +76,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🚀 Version Control & Deployment</b></summary>
 <br>
 
@@ -92,7 +92,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>📈 Business Intelligence & Analytics</b></summary>
 <br>
 
