@@ -16,72 +16,41 @@
 * 💬 Ask me about anything [here](https://portfolio-website-zeta-lyart-65.vercel.app/)
 
 ---
-
 ### 🛠️ Tech Stack
 
-<details>
-<summary><b>⚙️ Core Language & Automation</b></summary>
-<br>
+<sub>**Core & Automation**</sub> &nbsp;
+[<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
+[<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
+[<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<sub>**Data**</sub> &nbsp;
+[<img src="https://cdn.simpleicons.org/pandas/14B8A6" width="16" height="16"/> Pandas](https://pandas.pydata.org/) &nbsp;
+[<img src="https://cdn.simpleicons.org/numpy/14B8A6" width="16" height="16"/> NumPy](https://numpy.org/) &nbsp;
+[<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="16" height="16"/> SQLite](https://www.sqlite.org/) &nbsp;
+[<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="16" height="16"/> Streamlit](https://streamlit.io/)
 
-[<img src="https://cdn.simpleicons.org/python/14B8A6" width="20" height="20"/> **Python**](https://www.python.org/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="20" height="20"/> **Bash/Shell**](https://www.gnu.org/software/bash/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="20" height="20"/> **Pydantic**](https://docs.pydantic.dev/)
+<sub>**Backend**</sub> &nbsp;
+[<img src="https://cdn.simpleicons.org/flask/14B8A6" width="16" height="16"/> Flask](https://flask.palletsprojects.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> REST APIs](https://restfulapi.net/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<sub>**Frontend**</sub> &nbsp;
+[<img src="https://cdn.simpleicons.org/react/14B8A6" width="16" height="16"/> React](https://react.dev/) &nbsp;
+[<img src="https://cdn.simpleicons.org/html5/14B8A6" width="16" height="16"/> HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
+[<img src="https://cdn.simpleicons.org/css/14B8A6" width="16" height="16"/> CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
+[<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="16" height="16"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
+[<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="16" height="16"/> Tailwind](https://tailwindcss.com/)
 
-</details>
-
-<details>
-<summary><b>📊 Data Engineering & Processing</b></summary>
-<br>
-
-[<img src="https://cdn.simpleicons.org/pandas/14B8A6" width="20" height="20"/> **Pandas**](https://pandas.pydata.org/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/numpy/14B8A6" width="20" height="20"/> **NumPy**](https://numpy.org/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="20" height="20"/> **SQLite**](https://www.sqlite.org/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="20" height="20"/> **Streamlit**](https://streamlit.io/)
-
-</details>
-
-<details>
-<summary><b>🔧 Backend Development</b></summary>
-<br>
-
-[<img src="https://cdn.simpleicons.org/flask/14B8A6" width="20" height="20"/> **Flask**](https://flask.palletsprojects.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="20" height="20"/> **RESTful APIs**](https://restfulapi.net/)
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend & Web Presentation</b></summary>
-<br>
-
-[<img src="https://cdn.simpleicons.org/react/14B8A6" width="20" height="20"/> **React**](https://react.dev/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/html5/14B8A6" width="20" height="20"/> **HTML5**](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/css/14B8A6" width="20" height="20"/> **CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="20" height="20"/> **JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="20" height="20"/> **Tailwind CSS**](https://tailwindcss.com/)
-
-</details>
-
-<details>
-<summary><b>🚀 Version Control & Deployment</b></summary>
-<br>
-
-[<img src="https://cdn.simpleicons.org/git/14B8A6" width="20" height="20"/> **Git**](https://git-scm.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/github/14B8A6" width="20" height="20"/> **GitHub**](https://github.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/vercel/14B8A6" width="20" height="20"/> **Vercel**](https://vercel.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/render/14B8A6" width="20" height="20"/> **Render**](https://render.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/railway/14B8A6" width="20" height="20"/> **Railway**](https://railway.app/)
-
-</details>
-
-<details>
-<summary><b>📈 Business Intelligence & Analytics</b></summary>
-<br>
-
-[**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
-[**Power BI**](https://powerbi.microsoft.com/) &nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/looker/14B8A6" width="20" height="20"/> **Looker**](https://cloud.google.com/looker)
-
-</details>
+<sub>**Deployment**</sub> &nbsp;
+[<img src="https://cdn.simpleicons.org/git/14B8A6" width="16" height="16"/> Git](https://git-scm.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/github/14B8A6" width="16" height="16"/> GitHub](https://github.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/vercel/14B8A6" width="16" height="16"/> Vercel](https://vercel.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/render/14B8A6" width="16" height="16"/> Render](https://render.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/railway/14B8A6" width="16" height="16"/> Railway](https://railway.app/)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<sub>**BI & Analytics**</sub> &nbsp;
+[Excel](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;
+[Power BI](https://powerbi.microsoft.com/) &nbsp;
+[<img src="https://cdn.simpleicons.org/looker/14B8A6" width="16" height="16"/> Looker](https://cloud.google.com/looker)
 
 ---
 
