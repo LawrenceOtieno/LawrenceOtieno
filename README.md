@@ -27,10 +27,6 @@
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="20" height="20"/> **Bash/Shell**](https://www.gnu.org/software/bash/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="20" height="20"/> **Pydantic**](https://docs.pydantic.dev/)
 
-* **Python** — primary language for scripting, backend dev & analytical tooling
-* **Bash/Shell** — automates local workflows & deployment routines
-* **Pydantic** — type-safe data validation for clean data ingestion
-
 </details>
 
 <details>
@@ -42,10 +38,6 @@
 [<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="20" height="20"/> **SQLite**](https://www.sqlite.org/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="20" height="20"/> **Streamlit**](https://streamlit.io/)
 
-* **Pandas/NumPy** — clean & transform raw data into actionable datasets
-* **SQL (SQLite)** — data models & pipelines behind my apps
-* **Streamlit** — rapid prototyping, data scripts → interactive apps
-
 </details>
 
 <details>
@@ -54,9 +46,6 @@
 
 [<img src="https://cdn.simpleicons.org/flask/14B8A6" width="20" height="20"/> **Flask**](https://flask.palletsprojects.com/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="20" height="20"/> **RESTful APIs**](https://restfulapi.net/)
-
-* **Flask** — custom APIs, microservices & server logic
-* **RESTful APIs** — connects my Python backends to modern UIs
 
 </details>
 
@@ -70,10 +59,6 @@
 [<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="20" height="20"/> **JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="20" height="20"/> **Tailwind CSS**](https://tailwindcss.com/)
 
-* **React** — dynamic UIs, portfolio sites & rich dashboards
-* **HTML5/CSS3/JS** — foundational building blocks for the web
-* **Tailwind CSS** — fast, utility-first responsive styling
-
 </details>
 
 <details>
@@ -86,10 +71,6 @@
 [<img src="https://cdn.simpleicons.org/render/14B8A6" width="20" height="20"/> **Render**](https://render.com/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/railway/14B8A6" width="20" height="20"/> **Railway**](https://railway.app/)
 
-* **Git/GitHub** — version control & repo hosting
-* **Vercel/Streamlit Cloud** — deploys frontends & data apps instantly
-* **Render/Railway** — hosts Flask backends & lightweight services
-
 </details>
 
 <details>
@@ -99,10 +80,6 @@
 [**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;&nbsp;
 [**Power BI**](https://powerbi.microsoft.com/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/looker/14B8A6" width="20" height="20"/> **Looker**](https://cloud.google.com/looker)
-
-* **Excel** — ad-hoc data crunching & pivot tables
-* **Power BI** — enterprise dashboards & stakeholder reporting
-* **Looker** — LookML modeling & self-service analytics at scale
 
 </details>
 
