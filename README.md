@@ -125,7 +125,7 @@
 
 ---
 
-### 📂 Top Repositories
+### 📂 Trending Repositories
 
 * 📊 **[HRM Executive Dashboard](https://github.com/LawrenceOtieno/hrm-executive-dashboard)** — Dynamic workforce metrics, diversity analytics & a Scikit-Learn model for flight-risk/attrition prediction.
 * 🤖 **[KRA Nil Automator](https://github.com/LawrenceOtieno/kra-nil-automator)** — Multi-client batch automation engine for filing KRA Nil returns via Playwright.
