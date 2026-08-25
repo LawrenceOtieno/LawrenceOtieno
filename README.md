@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Core Language & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
