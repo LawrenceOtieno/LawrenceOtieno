@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-![Core Language & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
@@ -57,50 +57,53 @@
 
 <details>
 <summary>📖 <b>What each tool is for</b> <sub>(click to expand)</sub></summary>
+
 <br>
 
 **Core & Automation**
-<sub>
-• **Python** — primary language for scripting, backend dev & analytical tooling
-• **Bash/Shell** — automates local workflows & deployment routines
-• **Pydantic** — type-safe data validation for clean data ingestion
-</sub>
+<ul>
+<li><sub><b>Python</b> — primary language for scripting, backend dev & analytical tooling</sub></li>
+<li><sub><b>Bash/Shell</b> — automates local workflows & deployment routines</sub></li>
+<li><sub><b>Pydantic</b> — type-safe data validation for clean data ingestion</sub></li>
+</ul>
 
 **Data**
-<sub>
-• **Pandas/NumPy** — cleaning & transforming raw data into actionable datasets
-• **SQLite** — data models & pipelines behind my apps
-• **Streamlit** — rapid prototyping, data scripts → interactive apps
-</sub>
+<ul>
+<li><sub><b>Pandas/NumPy</b> — cleaning & transforming raw data into actionable datasets</sub></li>
+<li><sub><b>SQLite</b> — data models & pipelines behind my apps</sub></li>
+<li><sub><b>Streamlit</b> — rapid prototyping, data scripts → interactive apps</sub></li>
+</ul>
 
 **Backend**
-<sub>
-• **Flask** — custom APIs, microservices & server logic
-• **REST APIs** — connects my Python backends to modern UIs
-</sub>
+<ul>
+<li><sub><b>Flask</b> — custom APIs, microservices & server logic</sub></li>
+<li><sub><b>REST APIs</b> — connects my Python backends to modern UIs</sub></li>
+</ul>
 
 **Frontend**
-<sub>
-• **React** — dynamic UIs, portfolio sites & rich dashboards
-• **HTML5/CSS3/JS** — foundational building blocks for the web
-• **Tailwind** — fast, utility-first responsive styling
-</sub>
+<ul>
+<li><sub><b>React</b> — dynamic UIs, portfolio sites & rich dashboards</sub></li>
+<li><sub><b>HTML5/CSS3/JS</b> — foundational building blocks for the web</sub></li>
+<li><sub><b>Tailwind</b> — fast, utility-first responsive styling</sub></li>
+</ul>
 
 **Deployment**
-<sub>
-• **Git/GitHub** — version control & repo hosting
-• **Vercel** — deploys frontends & data apps instantly
-• **Render/Railway** — hosts Flask backends & lightweight services
-</sub>
+<ul>
+<li><sub><b>Git/GitHub</b> — version control & repo hosting</sub></li>
+<li><sub><b>Vercel</b> — deploys frontends & data apps instantly</sub></li>
+<li><sub><b>Render/Railway</b> — hosts Flask backends & lightweight services</sub></li>
+</ul>
 
 **BI & Analytics**
-<sub>
-• **Excel** — ad-hoc data crunching & pivot tables
-• **Power BI** — enterprise dashboards & stakeholder reporting
-• **Looker** — LookML modeling & self-service analytics at scale
-</sub>
+<ul>
+<li><sub><b>Excel</b> — ad-hoc data crunching & pivot tables</sub></li>
+<li><sub><b>Power BI</b> — enterprise dashboards & stakeholder reporting</sub></li>
+<li><sub><b>Looker</b> — LookML modeling & self-service analytics at scale</sub></li>
+</ul>
 
 </details>
+
+---
 
 ### 📊 GitHub Statistics
 
