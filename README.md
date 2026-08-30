@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Lawrence&fontSize=44&fontColor=0D9488&fontAlignY=55&height=90&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=2000&color=FF7A00&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Data+Product+Developer;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=2000&color=FF7A00&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Automation+%26+Integration+Expert;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
 
 </div>
 
@@ -22,6 +22,8 @@
 ![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
+[<img src="https://cdn.simpleicons.org/apacheairflow/14B8A6" width="16" height="16"/> Airflow](https://airflow.apache.org/) &nbsp;
+[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> APIs](https://restfulapi.net/) &nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
 
 ![Data](https://img.shields.io/badge/DATA-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
@@ -64,6 +66,8 @@
 <ul>
 <li><sub><b>Python</b> — primary language for scripting, backend dev & analytical tooling</sub></li>
 <li><sub><b>Bash/Shell</b> — automates local workflows & deployment routines</sub></li>
+<li><sub><b>Airflow</b> — orchestrates and schedules multi-step data pipelines</sub></li>
+<li><sub><b>APIs</b> — integrates and automates data exchange between systems</sub></li>
 <li><sub><b>Pydantic</b> — type-safe data validation for clean data ingestion</sub></li>
 </ul>
 
