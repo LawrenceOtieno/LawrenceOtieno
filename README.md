@@ -34,7 +34,9 @@
 
 ![Backend](https://img.shields.io/badge/BACKEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/flask/14B8A6" width="16" height="16"/> Flask](https://flask.palletsprojects.com/) &nbsp;
-[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> REST APIs](https://restfulapi.net/)
+[<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> REST APIs](https://restfulapi.net/) &nbsp;
+[<img src="https://cdn.simpleicons.org/openjdk/14B8A6" width="16" height="16"/> Java (basics)](https://dev.java/) &nbsp;
+[SQL](https://www.w3schools.com/sql/)
 
 ![Frontend](https://img.shields.io/badge/FRONTEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
 [<img src="https://cdn.simpleicons.org/react/14B8A6" width="16" height="16"/> React](https://react.dev/) &nbsp;
@@ -80,8 +82,10 @@
 
 **Backend**
 <ul>
-<li><sub><b>Flask</b> — custom APIs, microservices & server logic</sub></li>
+<li><sub><b>Flask</b> — built with Python for custom APIs, microservices & server logic</sub></li>
 <li><sub><b>REST APIs</b> — connects my Python backends to modern UIs</sub></li>
+<li><sub><b>Java (basics)</b> — foundational understanding of OOP & backend logic</sub></li>
+<li><sub><b>SQL</b> — querying and managing relational databases</sub></li>
 </ul>
 
 **Frontend**
