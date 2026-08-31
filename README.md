@@ -19,40 +19,40 @@
 
 ### 🛠️ Tech Stack
 
-![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Core & Automation](https://img.shields.io/badge/CORE%20%26%20AUTOMATION-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [<img src="https://cdn.simpleicons.org/python/14B8A6" width="16" height="16"/> Python](https://www.python.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/gnubash/14B8A6" width="16" height="16"/> Bash](https://www.gnu.org/software/bash/) &nbsp;
 [<img src="https://cdn.simpleicons.org/apacheairflow/14B8A6" width="16" height="16"/> Airflow](https://airflow.apache.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> APIs](https://restfulapi.net/) &nbsp;
 [<img src="https://cdn.simpleicons.org/pydantic/14B8A6" width="16" height="16"/> Pydantic](https://docs.pydantic.dev/)
 
-![Data](https://img.shields.io/badge/DATA-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Data](https://img.shields.io/badge/DATA-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [<img src="https://cdn.simpleicons.org/pandas/14B8A6" width="16" height="16"/> Pandas](https://pandas.pydata.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/numpy/14B8A6" width="16" height="16"/> NumPy](https://numpy.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/sqlite/14B8A6" width="16" height="16"/> SQLite](https://www.sqlite.org/) &nbsp;
 [<img src="https://cdn.simpleicons.org/streamlit/14B8A6" width="16" height="16"/> Streamlit](https://streamlit.io/)
 
-![Backend](https://img.shields.io/badge/BACKEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Backend](https://img.shields.io/badge/BACKEND-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [<img src="https://cdn.simpleicons.org/flask/14B8A6" width="16" height="16"/> Flask](https://flask.palletsprojects.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/fastapi/14B8A6" width="16" height="16"/> REST APIs](https://restfulapi.net/) &nbsp;
 [<img src="https://cdn.simpleicons.org/openjdk/14B8A6" width="16" height="16"/> Java (basics)](https://dev.java/) &nbsp;
 [SQL](https://www.w3schools.com/sql/)
 
-![Frontend](https://img.shields.io/badge/FRONTEND-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Frontend](https://img.shields.io/badge/FRONTEND-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [<img src="https://cdn.simpleicons.org/react/14B8A6" width="16" height="16"/> React](https://react.dev/) &nbsp;
 [<img src="https://cdn.simpleicons.org/html5/14B8A6" width="16" height="16"/> HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
 [<img src="https://cdn.simpleicons.org/css/14B8A6" width="16" height="16"/> CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
 [<img src="https://cdn.simpleicons.org/javascript/14B8A6" width="16" height="16"/> JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;
 [<img src="https://cdn.simpleicons.org/tailwindcss/14B8A6" width="16" height="16"/> Tailwind](https://tailwindcss.com/)
 
-![Deployment](https://img.shields.io/badge/DEPLOYMENT-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![Deployment](https://img.shields.io/badge/DEPLOYMENT-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [<img src="https://cdn.simpleicons.org/git/14B8A6" width="16" height="16"/> Git](https://git-scm.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/github/14B8A6" width="16" height="16"/> GitHub](https://github.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/vercel/14B8A6" width="16" height="16"/> Vercel](https://vercel.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/render/14B8A6" width="16" height="16"/> Render](https://render.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/railway/14B8A6" width="16" height="16"/> Railway](https://railway.app/)
 
-![BI & Analytics](https://img.shields.io/badge/BI%20%26%20ANALYTICS-FF7A00?style=flat-square&labelColor=FF7A00) &nbsp;
+![BI & Analytics](https://img.shields.io/badge/BI%20%26%20ANALYTICS-0A1F44?style=flat-square&labelColor=0A1F44) &nbsp;
 [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) &nbsp;
 [Power BI](https://powerbi.microsoft.com/) &nbsp;
 [<img src="https://cdn.simpleicons.org/looker/14B8A6" width="16" height="16"/> Looker](https://cloud.google.com/looker)
