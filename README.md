@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hello!%20I'm%20Lawrence&fontSize=44&fontColor=0D9488&fontAlignY=55&height=90&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=2000&color=FF7A00&center=true&vCenter=true&width=900&height=50&lines=Business+Analyst;Automation+%26+Integration+Expert;Data+Engineering+Enthusiast" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&duration=3500&pause=2000&color=FF7A00&center=true&vCenter=true&width=900&height=50&lines=Technical+Business+Analyst;Data+Products+%26+Front+End+Developer;ETL+Data+Engineering" alt="Typing SVG" width="100%"/>
 
 </div>
 
