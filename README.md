@@ -135,11 +135,7 @@
 
 ### 📂 Trending Repositories
 
-• 📊 HRM Executive Dashboard — Dynamic workforce metrics, diversity analytics & a Scikit-Learn model for flight-risk/attrition prediction.
-• 🎬 Global Movies Dashboard — CineMetrics is a cloud-native analytics platform exploring 1.1M+ movies and TV shows from the TMDB dataset. Built with a React/Vite frontend, Flask backend, Supabase PostgreSQL metadata, and Upstash/Pinecone vector databases for content-based recommendations.
-• 🏠 Gazebo Indoor Gen — Procedural indoor environment generator for Gazebo robotics simulations.
-• 🌐 Portfolio Website — My personal portfolio, built to showcase projects and experience.
-• 🤖 KRA Nil Automator — Multi-client batch automation engine for filing KRA Nil returns via Playwright.
+📊 **[HRM Executive Dashboard](https://github.com/LawrenceOtieno/hrm-executive-dashboard)** — Dynamic workforce metrics, diversity analytics & a Scikit-Learn model for flight-risk/attrition prediction.* 🤖 **[KRA Nil Automator](https://github.com/LawrenceOtieno/kra-nil-automator)** — Multi-client batch automation engine for filing KRA Nil returns via Playwright.* 🎬 **[Global Movies Dashboard](https://github.com/LawrenceOtieno/global-movies-dashboard)** — CineMetrics is a cloud-native analytics platform exploring 1.1M+ movies and TV shows from the TMDB dataset. Built with a React/Vite frontend, Flask backend, Supabase PostgreSQL metadata, and Upstash/Pinecone vector databases for content-based recommendations.* 🏠 **[Gazebo Indoor Gen](https://github.com/LawrenceOtieno/gazebo-indoor-gen)** — Procedural indoor environment generator for Gazebo robotics simulations.* 🌐 **[Portfolio Website](https://github.com/LawrenceOtieno/Portfolio-Website)** — My personal portfolio, built to showcase projects and experience.
 
 ---
 
